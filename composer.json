@@ -15,12 +15,6 @@
 			"email": "mathijs@wrep.nl"
 		}
 	],
-	"repositories": [
-	        {
-	            "type": "vcs",
-	            "url": "https://github.com/tiois/notificato-symfony.git"
-	        }
-	],
 	"require": {
 		"php": ">=5.3.3",
 		"symfony/symfony": "2.*",
